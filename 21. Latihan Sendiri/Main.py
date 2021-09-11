@@ -7,7 +7,7 @@ c = float(input("Masukan nilai tugas: "))
 # tugas - 30
 
 total = (a * 30 / 100) + (b * 40 / 100) + (c * 30 / 100)
-print('Nilai akhir anda: ', total)
+print('Nilai akhir anda adalah: ', total)
 
 # if a <= 100 and a >= 90:
 #     print('Grade anda adalah A')
